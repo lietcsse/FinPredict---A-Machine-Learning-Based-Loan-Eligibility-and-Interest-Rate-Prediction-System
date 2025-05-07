@@ -1,0 +1,4 @@
+**Abstract**: In the contemporary financial environment, determining loan eligibility accurately and efficiently is crucial for both financial institutions and prospective borrowers. FinPredict aims to revolutionize the loan approval process by leveraging advanced machine learning techniques to predict loan eligibility and recommend suitable banks along with their respective interest rates. Our model utilizes Decision Tree and Random Forest algorithms, achieving accuracies of 96.7% and 97.8%, respectively. The system is designed to be intuitive and user-friendly, providing users with a seamless experience to input their data and receive immediate feedback. This project empowers individuals in making informed financial choices while assisting financial institutions in streamlining their loan approval processes.
+<br>
+<br>
+_**Key Words:** Loan Eligibility Prediction, Machine Learning, Decision Trees, Random Forest, Interest Rate Estimation, Financial Technology_
